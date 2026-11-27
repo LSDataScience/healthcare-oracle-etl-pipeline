@@ -5,3 +5,7 @@ __pycache__/
 venv/
 data/
 .DS_Store
+!data/warehouse/
+!data/warehouse/hospital_dw.duckdb
+!data/warehouse/
+!data/warehouse/hospital_dw.duckdb
